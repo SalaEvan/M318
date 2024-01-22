@@ -1,0 +1,21 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\bin\Debug\net6.0-windows\01 BaseWPF.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\bin\Debug\net6.0-windows\01 BaseWPF.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\bin\Debug\net6.0-windows\01 BaseWPF.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\bin\Debug\net6.0-windows\01 BaseWPF.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\bin\Debug\net6.0-windows\01 BaseWPF.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\refint\01 BaseWPF.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\01 BaseWPF.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\01 BaseWPF\obj\Debug\net6.0-windows\ref\01 BaseWPF.dll

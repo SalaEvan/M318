@@ -1,0 +1,21 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\bin\Debug\net6.0-windows\Esempio DOCKPANEL.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\bin\Debug\net6.0-windows\Esempio DOCKPANEL.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\bin\Debug\net6.0-windows\Esempio DOCKPANEL.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\bin\Debug\net6.0-windows\Esempio DOCKPANEL.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\bin\Debug\net6.0-windows\Esempio DOCKPANEL.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\refint\Esempio DOCKPANEL.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\Esempio DOCKPANEL.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio DOCKPANEL\obj\Debug\net6.0-windows\ref\Esempio DOCKPANEL.dll

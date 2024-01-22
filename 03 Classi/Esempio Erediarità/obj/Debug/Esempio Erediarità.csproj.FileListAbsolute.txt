@@ -1,0 +1,8 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\Esempio Erediarità\bin\Debug\Esempio Erediarità.exe.config
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\Esempio Erediarità\bin\Debug\Esempio Erediarità.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\Esempio Erediarità\bin\Debug\Esempio Erediarità.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\Esempio Erediarità\obj\Debug\Esempio Erediarità.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\Esempio Erediarità\obj\Debug\Esempio Erediarità.csproj.SuggestedBindingRedirects.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\Esempio Erediarità\obj\Debug\Esempio Erediarità.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\Esempio Erediarità\obj\Debug\Esempio Erediarità.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\Esempio Erediarità\obj\Debug\Esempio Erediarità.pdb

@@ -1,0 +1,17 @@
+﻿<Window x:Class="_05_Pila.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_05_Pila"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="300">
+    <Grid>
+        <StackPanel>
+            <Button x:Name="bElement1" Content = "Element1" HorizontalAlignment="Right" Width="200"/>
+            <Button x:Name="bElement2" Content = "Element2"/>
+            <Button x:Name="bElement3" Content = "Element3"/>
+            <Button x:Name="bElement4" Content = "Element4"/>
+        </StackPanel>
+    </Grid>
+</Window>

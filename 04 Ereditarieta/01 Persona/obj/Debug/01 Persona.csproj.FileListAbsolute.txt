@@ -1,0 +1,8 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\04 Ereditarieta\01 Persona\bin\Debug\01 Persona.exe.config
+D:\CPT Trevano\2° anno 23-24\Modulo 318\04 Ereditarieta\01 Persona\bin\Debug\01 Persona.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\04 Ereditarieta\01 Persona\bin\Debug\01 Persona.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\04 Ereditarieta\01 Persona\obj\Debug\01 Persona.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\04 Ereditarieta\01 Persona\obj\Debug\01 Persona.csproj.SuggestedBindingRedirects.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\04 Ereditarieta\01 Persona\obj\Debug\01 Persona.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\04 Ereditarieta\01 Persona\obj\Debug\01 Persona.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\04 Ereditarieta\01 Persona\obj\Debug\01 Persona.pdb

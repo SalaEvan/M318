@@ -1,0 +1,23 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\bin\Debug\net6.0-windows\01 Maschere.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\bin\Debug\net6.0-windows\01 Maschere.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\bin\Debug\net6.0-windows\01 Maschere.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\bin\Debug\net6.0-windows\01 Maschere.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\bin\Debug\net6.0-windows\01 Maschere.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\Views\Page1.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\Views\Page1.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\refint\01 Maschere.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\01 Maschere.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\01 Maschere\obj\Debug\net6.0-windows\ref\01 Maschere.dll

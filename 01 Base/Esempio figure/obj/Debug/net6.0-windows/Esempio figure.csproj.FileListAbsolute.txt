@@ -1,0 +1,46 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\refint\Esempio figure.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\ref\Esempio figure.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Image\BING-CHILLING.jpg
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure_Content.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.exe
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Image\BING-CHILLING.jpg
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.deps.json
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.runtimeconfig.json
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\bin\Debug\net6.0-windows\Esempio figure.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.csproj.AssemblyReference.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\App.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure_Content.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure_MarkupCompile.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure_MarkupCompile.lref
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\MainWindow.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.g.resources
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.AssemblyInfoInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.AssemblyInfo.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.csproj.CoreCompileInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\refint\Esempio figure.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\Esempio figure.genruntimeconfig.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\Esempio figure\obj\Debug\net6.0-windows\ref\Esempio figure.dll

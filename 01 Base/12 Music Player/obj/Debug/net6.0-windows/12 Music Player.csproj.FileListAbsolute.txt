@@ -1,0 +1,50 @@
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.exe
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.deps.json
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.runtimeconfig.json
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.csproj.AssemblyReference.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\Views\Playlist.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\Views\SoundTrack.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\App.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player_MarkupCompile.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player_MarkupCompile.lref
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\MainWindow.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\Views\Playlist.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\Views\SoundTrack.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.g.resources
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.GeneratedMSBuildEditorConfig.editorconfig
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.AssemblyInfoInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.AssemblyInfo.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.csproj.CoreCompileInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\refint\12 Music Player.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.genruntimeconfig.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\ref\12 Music Player.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\bin\Debug\net6.0-windows\12 Music Player.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\Views\Playlist.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\Views\SoundTrack.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\Views\Playlist.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\Views\SoundTrack.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\refint\12 Music Player.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\12 Music Player.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\12 Music Player\obj\Debug\net6.0-windows\ref\12 Music Player.dll

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>01 Navigatore</name>
+    </assembly>
+    <members>
+        <member name="M:_01_Navigatore.models.Navigatore.#ctor">
+            <summary>
+            Metedo che da dei valori di default alle variabili
+            </summary>
+            <returns>>defualt della variabile</returns>
+        </member>
+        <member name="M:_01_Navigatore.models.Navigatore.#ctor(System.String,System.Int32,System.String)">
+            <summary>
+            Metedo da dei valori di default alle variabili
+            </summary>
+            <param name="marca">marca del navigatore</param>
+            <param name="dimensioni">dimensione del navigatore</param>
+            <param name="modello">modello di navigatore</param>
+            <returns>>tempo di percorrenza</returns>
+        </member>
+        <member name="M:_01_Navigatore.models.Navigatore.TrovaPercorso(System.String)">
+            <summary>
+            Metodo che restituisce il percorso migliore
+            </summary>
+            <param name="destinazione">destinazione da raggiungere</param>
+            <returns>>restituisce percorso</returns>
+        </member>
+        <member name="M:_01_Navigatore.models.Navigatore.InserireDeviazione(System.String)">
+            <summary>
+            Metedo che ti ritorna il percorso che devia il paese inserito
+            </summary>
+            <param name="evita">pease che deve evitare</param>
+            <returns>>indica il percorso che evita il paese inserito</returns>
+        </member>
+        <member name="M:_01_Navigatore.models.Navigatore.DistanzaTotale">
+            <summary>
+            Metedo che restituisce la distanza totale
+            </summary>
+            <returns>>distanza totale</returns>
+        </member>
+        <member name="M:_01_Navigatore.models.Navigatore.TempoTotale(System.String)">
+            <summary>
+            Metedo che calcola il tempo totale di percorrenza
+            </summary>
+            <param name="destinazione">destinazione da raggiungere</param>
+            <returns>>tempo di percorrenza</returns>
+        </member>
+        <member name="M:_01_Navigatore.models.Navigatore.InserireDestinazione">
+            <summary>
+            Metedo che viene inserito la destinazione
+            </summary>
+            <returns>>destinazione</returns>
+        </member>
+        <member name="M:_01_Navigatore.models.Navigatore.StampaInformazione">
+            <summary>
+            Metedo che stampa  le informazioni
+            </summary>
+            <returns>stampa marca, dimensioni e modello</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,21 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\bin\Debug\net6.0-windows\03 Canvas.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\bin\Debug\net6.0-windows\03 Canvas.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\bin\Debug\net6.0-windows\03 Canvas.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\bin\Debug\net6.0-windows\03 Canvas.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\bin\Debug\net6.0-windows\03 Canvas.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\refint\03 Canvas.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\03 Canvas.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\01 Base\03 Canvas\obj\Debug\net6.0-windows\ref\03 Canvas.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zGCem0Ztu4EaczLthAB7c2wR/peHqRhsD5xpvhhMreSML3VSKcI9Fnzk3w3rFvpgz/T2vv3wLxe6Dw5p2nfYAQ==",
+  "success": true,
+  "projectFilePath": "D:\\CPT Trevano\\2° anno 23-24\\Modulo 318\\02 Maschere\\02 Menu\\02 Menu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evan.sala\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\evan.sala\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\evan.sala\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\evan.sala\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

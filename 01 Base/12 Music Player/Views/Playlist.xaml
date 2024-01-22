@@ -1,0 +1,37 @@
+﻿<Page x:Class="_12_Music_Player.Views.Playlist"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:_12_Music_Player.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Playlist">
+    <Page.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="15"></Setter>
+        </Style>
+    </Page.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <Label Content="Playlist" FontSize="20" HorizontalAlignment="Center" Margin="0,20,0,0"></Label>
+            <Label Content="Traccia 1"></Label>
+            <Label Content="Traccia 2"></Label>
+            <Label Content="Traccia 3"></Label>
+            <Label Content="Traccia 4"></Label>
+            <Label Content="Traccia 5"></Label>
+            <Label Content="Traccia 6"></Label>
+            <Label Content="Traccia 7"></Label>
+            <Label Content="Traccia 8"></Label>
+        </StackPanel>
+        <StackPanel Grid.Column="1">
+            <Label Content="Lilo e Stritch Sound Track" FontSize="30" HorizontalAlignment="Center" Margin="0,20,0,0"></Label>
+            <Image Height="150" Stretch="Uniform" Source="image/bullets.jpg"></Image>
+            <Label Content="Hawaiian Roller Coaster RIde" FontSize="20" HorizontalAlignment="Center" Margin="0,20,0,0"></Label>
+        </StackPanel>
+    </Grid>
+</Page>

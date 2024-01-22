@@ -1,0 +1,57 @@
+﻿<Window
+    x:Class="Esempio_DOCKPANEL.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:Esempio_DOCKPANEL"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <DockPanel>
+        <!--  LastChildFill="False" nel DockPanel  -->
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <Label Content="Sono una barra di stato" />
+            </StatusBarItem>
+        </StatusBar>
+        <WrapPanel DockPanel.Dock="Top">
+            <Menu>
+                <MenuItem
+                    Width="100"
+                    Padding="40,0,0,0"
+                    Header="File">
+                    <MenuItem Header="Nuovo" InputGestureText="Ctrl+Coso" />
+                    <MenuItem Header="Apri" />
+                    <MenuItem Header="Salva" />
+                    <MenuItem Header="Esci" />
+                </MenuItem>
+            </Menu>
+            <Button
+                x:Name="element1"
+                Width="100"
+                Content="TOP" />
+            <Button
+                x:Name="element11"
+                Width="100"
+                Content="TOP" />
+        </WrapPanel>
+        <Button
+            x:Name="element3"
+            Content="RIGHT"
+            DockPanel.Dock="Right" />
+        <TreeView DockPanel.Dock="Left">
+            <TreeViewItem Header="Level 1  " IsExpanded="True">
+                <TreeViewItem Header="1.1" />
+                <TreeViewItem Header="1.2" />
+            </TreeViewItem>
+            <TreeViewItem Header="Level 2  " IsExpanded="False">
+                <TreeViewItem Header="2.1" />
+                <TreeViewItem Header="2.2" />
+            </TreeViewItem>
+        </TreeView>
+
+        <Button x:Name="element5" Content="CENTER" />
+    </DockPanel>
+</Window>

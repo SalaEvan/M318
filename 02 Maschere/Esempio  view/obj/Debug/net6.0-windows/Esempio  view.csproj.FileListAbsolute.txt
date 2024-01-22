@@ -1,0 +1,23 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\bin\Debug\net6.0-windows\Esempio  view.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\bin\Debug\net6.0-windows\Esempio  view.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\bin\Debug\net6.0-windows\Esempio  view.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\bin\Debug\net6.0-windows\Esempio  view.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\bin\Debug\net6.0-windows\Esempio  view.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Views\RicercaView.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Views\RicercaView.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\refint\Esempio  view.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\Esempio  view.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\Esempio  view\obj\Debug\net6.0-windows\ref\Esempio  view.dll

@@ -1,0 +1,9 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\obj\Debug\01 Navigatore.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\obj\Debug\01 Navigatore.csproj.SuggestedBindingRedirects.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\obj\Debug\01 Navigatore.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\bin\Debug\01 Navigatore.exe.config
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\bin\Debug\01 Navigatore.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\bin\Debug\01 Navigatore.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\obj\Debug\01 Navigatore.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\obj\Debug\01 Navigatore.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\01 Navigatore\bin\Debug\01 Navigatore.xml

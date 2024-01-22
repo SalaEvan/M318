@@ -1,0 +1,118 @@
+﻿<Window x:Class="_09_Colori.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_09_Colori"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+		<Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Row="0">
+            <Label x:Name="lUno" Content="Gradiante lineare Obliquo" />
+            <Label x:Name="lDue" Content="con Offset 1 per bianco:" />
+            <Rectangle
+                x:Name="rUno"
+                Width="100"
+                Height="50">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                        <GradientStop Color="green" />
+                        <GradientStop Offset="1" Color="WHITE" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <Label x:Name="lTre" Content="Gradiante lineare Obliquo" />
+            <Label x:Name="lQuattro" Content="con Offset 0.5 per bianco:" />
+            <Rectangle
+                x:Name="rDue"
+                Width="100"
+                Height="50">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                        <GradientStop Color="green" />
+                        <GradientStop Offset="0.5" Color="WHITE" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="0">
+            <Label x:Name="lCinque" Content="Gradiante lineare verticale:" />
+
+            <Rectangle
+                x:Name="rTre"
+                Width="100"
+                Height="50">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                        <GradientStop Color="Blue" />
+                        <GradientStop Offset="0.5" Color="Yellow" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Grid.Column="1">
+            <Label x:Name="lSette" Content="Gradiante lineare Verticale:" />
+            <Label x:Name="lOtto" Content="Colori Multipli:" />
+            <Rectangle
+                x:Name="rQuattro"
+                Width="100"
+                Height="50">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
+                        <GradientStop Color="Red" />
+                        <GradientStop Offset="1" Color="Blue" />
+                        <GradientStop Offset="0.5" Color="Yellow" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="0">
+            <Label x:Name="lNove" Content="Gradiante lineare Orizzontale" />
+
+            <Rectangle
+                x:Name="rCinque"
+                Width="100"
+                Height="50">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="1,0" EndPoint="1,1">
+                        <GradientStop Color="red" />
+                        <GradientStop Offset="1" Color="white" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Grid.Column="1">
+            <Label x:Name="lDieci" Content="Gradiante lineare Obliqeuo con colori multpili:" />
+
+            <Rectangle
+                x:Name="rSei"
+                Width="100"
+                Height="50">
+                <Rectangle.Fill>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                        <GradientStop Offset="0.1" Color="red" />
+                        <GradientStop Offset="0.2" Color="yellow" />
+                        <GradientStop Offset="0.3" Color="coral" />
+                        <GradientStop Offset="0.4" Color="blue" />
+                        <GradientStop Offset="0.5" Color="white" />
+                        <GradientStop Offset="0.6" Color="green" />
+                        <GradientStop Offset="0.7" Color="LightBlue" />
+                        <GradientStop Offset="0.8" Color="purple" />
+                        <GradientStop Offset="0.9" Color="Orange" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+        </StackPanel>
+    </Grid>
+</Window>

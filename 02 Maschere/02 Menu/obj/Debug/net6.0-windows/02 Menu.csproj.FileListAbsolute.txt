@@ -1,0 +1,27 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\02 Menu.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\02 Menu.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\02 Menu.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\02 Menu.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\02 Menu.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\refint\02 Menu.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\ref\02 Menu.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\ControlzEx.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\MahApps.Metro.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\02 Menu.csproj.CopyComplete
+D:\CPT Trevano\2° anno 23-24\Modulo 318\02 Maschere\02 Menu\obj\Debug\net6.0-windows\App.baml

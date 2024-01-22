@@ -1,0 +1,27 @@
+**********Benvenuto nel programma catalogo Fumetti**********
+
+Scegli(1) per inserire nuovo fumetto
+
+Scegli(2) per modificare il prezzo del fumetto
+	  Indica ISBN: 
+	  Indica nuovo prezzo:
+
+Scegli(3) per modificare breve descrizione
+	  Indica ISBN:
+	  Indica nuova descrizione: 
+
+Scegli(4) per modificare stato
+	  Indica ISBN:
+	  Indica stato:
+
+
+
+
+
+
+************************Stampa Catalogo********************
+
+Titolo 		| Autore      | Anno | Prezzo | ISBN | Stato
+Capitan Tsusaba   Y. Takahashi  1981   15 fr.   00001  Nuovo
+ 
+***********************************************************

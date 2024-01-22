@@ -1,0 +1,8 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\03 Lattina\bin\Debug\03 Lattina.exe.config
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\03 Lattina\bin\Debug\03 Lattina.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\03 Lattina\bin\Debug\03 Lattina.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\03 Lattina\obj\Debug\03 Lattina.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\03 Lattina\obj\Debug\03 Lattina.csproj.SuggestedBindingRedirects.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\03 Lattina\obj\Debug\03 Lattina.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\03 Lattina\obj\Debug\03 Lattina.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\03 Lattina\obj\Debug\03 Lattina.pdb

@@ -1,0 +1,8 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\02 Clown\bin\Debug\02 Clown.exe.config
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\02 Clown\bin\Debug\02 Clown.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\02 Clown\bin\Debug\02 Clown.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\02 Clown\obj\Debug\02 Clown.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\02 Clown\obj\Debug\02 Clown.csproj.SuggestedBindingRedirects.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\02 Clown\obj\Debug\02 Clown.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\02 Clown\obj\Debug\02 Clown.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\03 Classi\02 Clown\obj\Debug\02 Clown.pdb
