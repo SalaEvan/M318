@@ -1,0 +1,21 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\bin\Debug\net6.0-windows\03 DockPanel.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\bin\Debug\net6.0-windows\03 DockPanel.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\bin\Debug\net6.0-windows\03 DockPanel.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\bin\Debug\net6.0-windows\03 DockPanel.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\bin\Debug\net6.0-windows\03 DockPanel.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\refint\03 DockPanel.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\03 DockPanel.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\03 DockPanel\obj\Debug\net6.0-windows\ref\03 DockPanel.dll

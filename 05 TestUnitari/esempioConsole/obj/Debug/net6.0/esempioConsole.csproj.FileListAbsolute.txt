@@ -1,0 +1,15 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\bin\Debug\net6.0\esempioConsole.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\bin\Debug\net6.0\esempioConsole.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\bin\Debug\net6.0\esempioConsole.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\bin\Debug\net6.0\esempioConsole.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\bin\Debug\net6.0\esempioConsole.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\esempioConsole.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\esempioConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\esempioConsole.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\esempioConsole.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\esempioConsole.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\esempioConsole.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\refint\esempioConsole.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\esempioConsole.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\esempioConsole.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\05 TestUnitari\esempioConsole\obj\Debug\net6.0\ref\esempioConsole.dll

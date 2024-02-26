@@ -1,0 +1,23 @@
+﻿<controls:MetroWindow
+    x:Class="_02_Agenda.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:_02_Agenda"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="CALENDARIO APP"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid>
+        <controls:MetroAnimatedTabControl>
+            <TabItem Header="Calendario">
+                <Frame x:Name="Views1" Source="View/Calendario.xaml" />
+            </TabItem>
+            <TabItem Header="Appuntamento">
+                <Frame x:Name="Views2" Source="View/Appuntamento.xaml" />
+            </TabItem>
+        </controls:MetroAnimatedTabControl>
+    </Grid>
+</controls:MetroWindow>

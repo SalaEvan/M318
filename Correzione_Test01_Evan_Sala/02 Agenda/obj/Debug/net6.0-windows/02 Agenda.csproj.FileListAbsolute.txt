@@ -1,0 +1,62 @@
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.exe
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.deps.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.runtimeconfig.json
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\ControlzEx.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\MahApps.Metro.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.csproj.AssemblyReference.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\view\Appuntamento.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\App.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda_MarkupCompile.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda_MarkupCompile.lref
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\App.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\MainWindow.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\view\Appuntamento.baml
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.g.resources
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.GeneratedMSBuildEditorConfig.editorconfig
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.AssemblyInfoInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.AssemblyInfo.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.csproj.CoreCompileInputs.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.csproj.CopyComplete
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\refint\02 Agenda.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.pdb
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.genruntimeconfig.cache
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\ref\02 Agenda.dll
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\view\Calendario.g.cs
+D:\CPT Trevano\2° anno 23-24\Modulo 318\Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\view\Calendario.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.exe
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.deps.json
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.runtimeconfig.json
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\02 Agenda.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\ControlzEx.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\MahApps.Metro.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\bin\Debug\net6.0-windows\de\MahApps.Metro.resources.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.csproj.AssemblyReference.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\view\Appuntamento.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\view\Calendario.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\App.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda_MarkupCompile.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda_MarkupCompile.lref
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\App.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\MainWindow.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\view\Appuntamento.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\view\Calendario.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.g.resources
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.GeneratedMSBuildEditorConfig.editorconfig
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.AssemblyInfoInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.AssemblyInfo.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.csproj.CoreCompileInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.csproj.CopyComplete
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\refint\02 Agenda.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\02 Agenda.genruntimeconfig.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\02 Agenda\obj\Debug\net6.0-windows\ref\02 Agenda.dll

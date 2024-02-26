@@ -1,0 +1,8 @@
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Test02_Evan_Sala\Esercizio 01\bin\Debug\Esercizio 01.exe.config
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Test02_Evan_Sala\Esercizio 01\bin\Debug\Esercizio 01.exe
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Test02_Evan_Sala\Esercizio 01\bin\Debug\Esercizio 01.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Test02_Evan_Sala\Esercizio 01\obj\Debug\01 MenuCreator.csproj.AssemblyReference.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Test02_Evan_Sala\Esercizio 01\obj\Debug\01 MenuCreator.csproj.SuggestedBindingRedirects.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Test02_Evan_Sala\Esercizio 01\obj\Debug\01 MenuCreator.csproj.CoreCompileInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Test02_Evan_Sala\Esercizio 01\obj\Debug\Esercizio 01.exe
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Test02_Evan_Sala\Esercizio 01\obj\Debug\Esercizio 01.pdb

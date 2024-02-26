@@ -1,0 +1,22 @@
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\bin\Debug\net6.0-windows\01 Griglia.exe
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\bin\Debug\net6.0-windows\01 Griglia.deps.json
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\bin\Debug\net6.0-windows\01 Griglia.runtimeconfig.json
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\bin\Debug\net6.0-windows\01 Griglia.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\bin\Debug\net6.0-windows\01 Griglia.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.csproj.AssemblyReference.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\App.g.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia_MarkupCompile.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia_MarkupCompile.lref
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\App.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\MainWindow.baml
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.g.resources
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.GeneratedMSBuildEditorConfig.editorconfig
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.AssemblyInfoInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.AssemblyInfo.cs
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.csproj.CoreCompileInputs.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\refint\01 Griglia.dll
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.pdb
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\01 Griglia.genruntimeconfig.cache
+E:\CPT Trevano\2° anno 23-24\Modulo 318\Correzione_Test01_Evan_Sala\01 Griglia\obj\Debug\net6.0-windows\ref\01 Griglia.dll
